@@ -1,0 +1,8 @@
+---
+applications:
+- name: PropertyReaderDemo
+  memory: 1G
+  random-route: true
+  path: target/PropertyReaderDemo-1.0.jar
+  buildpack: java_buildpack
+
